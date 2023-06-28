@@ -1,0 +1,59 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+
+nav {
+    color: red;
+}
+
+* {
+    font-size: 30px;
+    color:white;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: fantasy;
+    font-weight: 2px;
+}
+
+h2 {
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+    color: red;
+}
+div {
+    background-color:rgb(53, 31, 179);
+}
+.link{
+    background-color: black;
+    font-size:x-large
+}
+body{
+    margin: 200px;
+    
+}
+#menu{
+    background-color: black;
+    background-blend-mode: lighten;
+}
+
+nav
+{
+position: fixed;
+top: 0px;
+bottom: auto;
+}
+
+p{
+margin: 100px;
+}
+.intro p{
+    border: 100px, dotted, black;
+  }
+* {
+    background-color: grey;
+  }
